@@ -1,0 +1,23 @@
+# Windows Executables
+*.exe
+!msr-cmd.exe
+
+# Binaries / Object files
+bin
+obj
+*.o
+
+# Outputs
+*data/
+*out/
+plot
+
+# Compiled values
+*-monitor
+
+# Python virtual env
+venv3
+venv
+
+# Python cache
+__pycache__/
